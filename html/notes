@@ -7,4 +7,6 @@ doctype,html,head,title,meta,body,h1,script,style,link,base(URI/URL)
 
 body,headings,text,lists,links,tables,images/objects
 
+id unique, class can be same for elements
 
+html validator

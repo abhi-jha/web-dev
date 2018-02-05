@@ -1,1 +1,1 @@
-alert("Window loaded for js from anoter file");
+//alert("Window loaded for js from anoter file");
